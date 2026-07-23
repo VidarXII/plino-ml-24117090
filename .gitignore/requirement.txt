@@ -1,0 +1,16 @@
+espeak-ng
+python 3.12
+pytorch 2.4.3
+numpy 
+pandas
+scipy
+scikit-learn
+numba = 0.6
+llmvlite = 0.43
+kokoro 0.9.4
+resemblyzer 0.1.4
+soundfile 0.1.2
+librosa
+en_core_web_sm
+
+
